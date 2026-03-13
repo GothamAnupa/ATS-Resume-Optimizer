@@ -50,7 +50,6 @@ pip install -r requirements.txt
 3.Environment Variables:
 Create a .env file in the root directory and add your API keys:
 OPENAI_API_KEY=your_openai_api_key_here
-# Add any other required environment variables
 
 
 # Run and deploy your AI Studio app
