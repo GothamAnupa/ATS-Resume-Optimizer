@@ -45,7 +45,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 2.Install dependencies:
 pip install -r requirements.txt
-# OR if using Node.js: npm install
+
 
 3.Environment Variables:
 Create a .env file in the root directory and add your API keys:
